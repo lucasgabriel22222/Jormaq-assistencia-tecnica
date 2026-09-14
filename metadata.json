@@ -1,0 +1,6 @@
+{
+  "name": "Jormaq Assistência Técnica | Arapongas PR e Região",
+  "description": "Assistência técnica especializada e conserto em domicílio de geladeiras, máquinas de lavar, ar-condicionado, fogões e eletrodomésticos em Arapongas PR e região com garantia formal e peças originais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
